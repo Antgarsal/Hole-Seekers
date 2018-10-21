@@ -1,0 +1,21 @@
+From ISS to Iridium constellation (different Right Ascension, different inclination)
+==> DV = [4.2 -15.09] km/s depending of the Right Ascension (plane + semi major change)
+Fromm Iridium orbit to Iridium orbit (different Right Ascension, same inclination = 86.4 deg)
+==> DOM = 360/6 deg;   DV = 4.34 Km/s
+==> DOM = 180 deg;       DV = 8.7 Km/s
+From Satellite to Satellite in Iridium Orbit. Phase change.
+==> PHASE = 360/11 deg;   DV = 0.5 Km/s;    duration = 9.11 min
+==> PHASE = 180 deg;         DV = 5.34 Km/s;  duration = 50.14 min
+
+
+From ISS to GPS constellation
+==> DV = [4.8 -12.07] km/s depending of the Right Ascension (plane + semi major change)
+Fromm GPS orbit to GPS orbit (different Right Ascension, same inclination = 54 deg)
+==> DOM = 360/6 deg;   DV = 4.36 Km/s
+==> DOM = 180 deg;       DV = 8.7 Km/s
+From GPS to GPS in Iridium Orbit. Phase change.
+==> PHASE = 360/5 deg;     DV = 0.74 Km/s;    duration = 95 min
+==> PHASE = 180 deg;         DV = 3.18 Km/s;    duration = 238 min
+
+
+
